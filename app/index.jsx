@@ -17,6 +17,7 @@ const index = () => {
             className="w-130px h-[84px]"
             resizeMode="contain"
             style={{
+              // this actually works
               width: 130,
               height: 80,
               resizeMode: "contain",
